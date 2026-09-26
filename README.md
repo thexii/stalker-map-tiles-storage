@@ -1,0 +1,2 @@
+# stalker-map-tiles-storage
+
